@@ -1,0 +1,14 @@
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.csproj.AssemblyReference.cache
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.AssemblyInfoInputs.cache
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.AssemblyInfo.cs
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\bin\Debug\netcoreapp3.1\MyBlackJackGame.exe
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\bin\Debug\netcoreapp3.1\MyBlackJackGame.deps.json
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\bin\Debug\netcoreapp3.1\MyBlackJackGame.runtimeconfig.json
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\bin\Debug\netcoreapp3.1\MyBlackJackGame.runtimeconfig.dev.json
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\bin\Debug\netcoreapp3.1\MyBlackJackGame.dll
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\bin\Debug\netcoreapp3.1\MyBlackJackGame.pdb
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.dll
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.pdb
+C:\Users\elima\True Coders\repos\MyBlackJackGame\MyBlackJackGame\obj\Debug\netcoreapp3.1\MyBlackJackGame.genruntimeconfig.cache
