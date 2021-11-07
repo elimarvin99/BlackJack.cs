@@ -122,21 +122,31 @@ namespace MyBlackJackGame
                         Console.WriteLine($"Player's total chips are {playersChips.Total}");
                         //breal out of this round
                     }
-                    
+
+
+                if (playersChips.Total <= 0)
+                {
+                    gameOn = false;
+                    Console.WriteLine("You are out of chips and can't play again, better luck next time");
+                }
+                else if (playersChips.Total > 0)
+                {
+                    //Ask to play again
+                    Console.WriteLine("Do you want to play again? y or n");
+                    var response = Console.ReadLine();
+                    if (response.ToLower() == "y")
+                    {
+                        gameOn = true;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Thanks for playing, hope you enjoyed");
+                        gameOn = false;
+                    }
+                }
                 
 
-                //Ask to play again
-                Console.WriteLine("Do you want to play again? y or n");
-                var response = Console.ReadLine();
-                if( response.ToLower() == "y")
-                {
-                    gameOn = true;
-                }
-                else 
-                {
-                    Console.WriteLine("Thanks for playing, hope you enjoyed");
-                    gameOn = false;
-                }
+                
                 
             }
 
