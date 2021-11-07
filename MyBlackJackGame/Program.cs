@@ -238,7 +238,7 @@ namespace MyBlackJackGame
             //don't show the dealers first card at index place 0
             foreach (var card in dealer.Cards)
             {
-                //up till one that way the first card of the dealer isn't shown
+                //show every card besides the card at index 0 (the dealers first card)
                 if (card != dealer.Cards[0])
                 {
                     Console.WriteLine(card.returnCardInfo());
